@@ -1,18 +1,4 @@
 <div >
- <br />
-  <div align="center" >
-   <a href="https://youtu.be/pqYxZ8jd768" target="_blank">
-     <img  src="public/images/Final.png" style="border-radius:10px;"  alt="Project Banner">
-   </a></div>
- <br />
- <br />
-
- <div>
-   <img src="https://img.shields.io/badge/-React_JS_V19-black?style=for-the-badge&logoColor=white&logo=react&color=007ACC" alt="react.js" />
-   <img src="https://img.shields.io/badge/-Tailwind_CSS_v4-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=030712" alt="tailwindcss" />
-   <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
-
- </div>
 
  <h3 style="font-weight:700;font-size:30px;">AWWWARDS Site of the Day Website</h3>
 
@@ -21,16 +7,6 @@
     This tutorial guides you through creating a stunning, interactive site using <b>GSAP</b>, <b>ReactJS</b>, and <b>Tailwind CSS</b>.
    </div>
 </div>
-
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🚀 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. ✨ [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🕸️ [Snippets (Code to Copy)](#snippets)
-6. 🔗 [Assets](#links)
-7. 🌐 [Community](#more)
 
 ## Introduction
 
